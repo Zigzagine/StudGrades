@@ -1,0 +1,1 @@
+﻿update Grades set Grade1 = 7 where
